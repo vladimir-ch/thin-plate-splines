@@ -1,3 +1,5 @@
+**This repository has been archived.**
+
 thin-plate-splines
 ==================
 
